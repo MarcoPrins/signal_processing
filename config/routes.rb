@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
-  get 'hello_world', to: 'hello_world#index'
-  resources :movies
+  resources :data_captures, only: [:show]
+
+  resources :data_analyses, only: [:create]
+  get '/data_analyses/preview', to: 'data_analyses#preview'
 end
