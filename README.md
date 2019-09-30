@@ -1,24 +1,5 @@
-# README
+# Signal processing app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Definition of done:
+* Frontend mockups showing a **conceptual** version of what the UI would look like
+* Backend endpoints that would be needed for such a mockup, **fully implemented**
