@@ -3,17 +3,17 @@ class DataAnalysesController < ApplicationController
 
   def preview
     if @data_analysis.valid?
-      render json: @data_analysis.data
+      render json: { data: @data_analysis.data }
     else
-      render json: @data_analysis.errors
+      render json: { errors: @data_analysis.errors }
     end
   end
 
   def create
     if @data_analysis.save
-      render json: @data_analysis
+      render json: { data: @data_analysis.data }
     else
-      render json: @data_analysis.errors
+      render json: { errors: @data_analysis.errors }
     end
   end
 
