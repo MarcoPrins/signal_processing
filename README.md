@@ -26,20 +26,20 @@ Assuming you have docker installed, you can clone this repository, run `docker-c
 
 2. When you click the button to add a data analysis, it opens up a form where you can choose the type and configure any necessary parameters (such as threshold, for a `ThresholdCompliance`)
 
-![Mockup 2](https://raw.githubusercontent.com/MarcoPrins/signal_processing/master/app/assets/images/MOCKUP%202.png?token=ABOCFJZNJQ6KD4RGRID74H25SUCUG)
+![Mockup 2](https://img.techpowerup.org/191002/mockup-2.png)
 
 3. You can click preview to see what the data analysis would look like without saving it. This will use the `preview` endpoint.
 
-![Mockup 3](https://raw.githubusercontent.com/MarcoPrins/signal_processing/master/app/assets/images/MOCKUP%203.png?token=ABOCFJ7PD4ASRYMI4AW6WD25SUCUO)
+![Mockup 3](https://img.techpowerup.org/191002/mockup-3.png)
 
 4. If you click Add, it will save this data analysis. It now displays below the actual data capture.
 
-![Mockup 4](https://raw.githubusercontent.com/MarcoPrins/signal_processing/master/app/assets/images/MOCKUP%204.png?token=ABOCFJZPTQ6LZTA4ESJYNEK5SUCUY)
+![Mockup 4](https://img.techpowerup.org/191002/mockup-4.png)
 
 5. If you want to view data in detail, you can drag and select a subset of data on the data capture graph. This will reveal a table with the exact data figures, for the data capture as well as all analyses. (It's done this way because the complete data capture will likely be too big to view in a table as a whole - so only when you select a subset it will reveal the values).
 
-![Mockup 5](https://raw.githubusercontent.com/MarcoPrins/signal_processing/master/app/assets/images/MOCKUP%205.png?token=ABOCFJYVV3UWJAT2BCSU4KC5SUCU6)
+![Mockup 5](https://img.techpowerup.org/191002/mockup-5.png)
 
 6. Also, if you preview a data analysis while in this "focus" mode, it will show a preview of your data analysis that you're configuring.
 
-![Mockup 6](https://raw.githubusercontent.com/MarcoPrins/signal_processing/master/app/assets/images/MOCKUP%206.png?token=ABOCFJ262M4VBXRHODK7AAS5SUCVG)
+![Mockup 6](https://img.techpowerup.org/191002/mockup-6.png)
