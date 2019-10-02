@@ -7,6 +7,7 @@ class DataAnalysis < ActiveRecord::Base
 
   enum type: {
     'DataAnalyses::ThresholdCompliance' => 'threshold_compliance',
+    'DataAnalyses::Delta' => 'delta',
   }
 
   def set_data

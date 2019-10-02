@@ -2,7 +2,7 @@ require 'rails_helper'
 
 describe DataAnalyses::ThresholdCompliance do
   before do
-    @data_capture = DataCapture.create(title: 'Test', data: [1,2,0,5,4,2,5])
+    @data_capture = DataCapture.create(title: 'Test Threshold Compliance', data: [1,2,0,5,4,2,5])
   end
 
   it 'returns 1 for each entry where the signal exceeds the threshold; and 0 for other entries' do
