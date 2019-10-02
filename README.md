@@ -10,3 +10,6 @@
 ## Running the container locally
 
 Assuming you have docker installed, you can clone this repository, run `docker-compose build` and then run `rake db:setup` in the container.
+
+
+![Mockup 1](https://raw.githubusercontent.com/MarcoPrins/signal_processing/master/app/assets/images/MOCKUP%201.png?token=ABOCFJ6JR5WJNM4KESBE2OC5SUCNK)
