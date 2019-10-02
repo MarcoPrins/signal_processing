@@ -22,7 +22,7 @@ Assuming you have docker installed, you can clone this repository, run `docker-c
 
 1. A data capture, which would presumably be created by lab equipment, is saved as a database record and can be viewed as shown here. There is a button with which you add a data analysis.
 
-![Mockup 1](/app/assets/images/MOCKUP 1.png)
+![Mockup 1](https://imge.to/i/vE1N0Y)
 
 2. When you click the button to add a data analysis, it opens up a form where you can choose the type and configure any necessary parameters (such as threshold, for a `ThresholdCompliance`)
 
