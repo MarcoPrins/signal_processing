@@ -5,7 +5,7 @@
 * Backend endpoints that would be needed for such a mockup, **fully implemented**
 
 ## Things to note
-* All the relevant files for this project are in the **models** and **controllers** directores (as well as **spec/models** and **spec/controllers**. The rest is just boilerplate code!
+* All the relevant files for this project are in the **models** and **controllers** directores (as well as **spec/models** and **spec/controllers**). The rest is just boilerplate code!
 * For this assignment I only focussed on the feature described - This app does not have things like valid authentication etc.
 
 ## Running the container locally
